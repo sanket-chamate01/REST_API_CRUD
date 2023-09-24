@@ -1,5 +1,5 @@
 package main
 
-const DBName = "db_name"
-const DBUser = "user"
+const DBName = "test"
+const DBUser = "root"
 const DBPassword = "password"
